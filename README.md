@@ -1,11 +1,5 @@
-# Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
+Full Stack AirBnb Clone
 
-![Copy of Fullstack Twitter Clone (8)](https://user-images.githubusercontent.com/23248726/229031522-64a49ad0-66f7-4ea8-94a8-f64a0bb56736.png)
-
-
-This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
-
-[VIDEO TUTORIAL](https://youtu.be/c_-b_isI4vg)
 
 Features:
 
@@ -36,15 +30,6 @@ Features:
 - How to handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
 - How to handle relations between Server and Child components!
 
-### Prerequisites
-
-**Node version 14.x**
-
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/next13-airbnb-clone.git
-```
 
 ### Install packages
 
@@ -77,10 +62,3 @@ npx prisma db push
 npm run dev
 ```
 
-## Available commands
-
-Running commands with npm `npm run [command]`
-
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
