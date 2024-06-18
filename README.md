@@ -37,17 +37,6 @@ Features:
 npm i
 ```
 
-### Setup .env file
-
-
-```js
-DATABASE_URL=
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
-GITHUB_ID=
-GITHUB_SECRET=
-NEXTAUTH_SECRET=
-```
 
 ### Setup Prisma
 
